@@ -1,4 +1,4 @@
-![Starsim Logo](starsim-logo-filled-dark-wide.png) 
+![Starsim Logo](starsim-logo-filled-light-wide.png) 
 
 # Welcome to Starsim!
 
