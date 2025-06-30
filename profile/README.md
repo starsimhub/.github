@@ -1,6 +1,6 @@
-# Welcome to Starsim!
+<img src="starsim-logo-filled-dark.png" alt="Starsim Logo" style="max-width:400px;">
 
-![Starsim Logo](starsim-logo-filled-light.png) 
+# Welcome to Starsim!
 
 Starsim is an agent-based framework for modeling the spread of diseases among agents via dynamic transmission networks.
 
